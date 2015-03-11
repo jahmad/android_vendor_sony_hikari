@@ -80,8 +80,8 @@ PRODUCT_COPY_FILES += \
     vendor/sony/hikari/proprietary/etc/fast-dormancy/fd_ext_conf.txt:system/etc/fast-dormancy/fd_ext_conf.txt \
     vendor/sony/hikari/proprietary/etc/fast-dormancy/fd_custm_conf.txt:system/etc/fast-dormancy/fd_custm_conf.txt \
     vendor/sony/hikari/proprietary/etc/firmware/BCM4330.hcd:system/etc/firmware/BCM4330.hcd \
-    vendor/sony/hikari/proprietary/etc/firmware/bq27520_fw-0507_filever-0116_proj-nozo_golden.bqfs:system/etc/firmware/bq27520_fw-0507_filever-0116_proj-nozo_golden.bqfs \
-    vendor/sony/hikari/proprietary/etc/firmware/bq27520_fw-0507_filever-0116_proj-nozo_golden.dffs:system/etc/firmware/bq27520_fw-0507_filever-0116_proj-nozo_golden.dffs \
+    vendor/sony/hikari/proprietary/etc/firmware/bq27520_fw-0507_filever-0011_proj-hika_golden.bqfs:system/etc/firmware/bq27520_fw-0507_filever-0011_proj-hika_golden.bqfs \
+    vendor/sony/hikari/proprietary/etc/firmware/bq27520_fw-0507_filever-0011_proj-hika_golden.dffs:system/etc/firmware/bq27520_fw-0507_filever-0011_proj-hika_golden.dffs \
     vendor/sony/hikari/proprietary/etc/firmware/dsps_fluid.b00:system/etc/firmware/dsps_fluid.b00 \
     vendor/sony/hikari/proprietary/etc/firmware/dsps_fluid.b01:system/etc/firmware/dsps_fluid.b01 \
     vendor/sony/hikari/proprietary/etc/firmware/dsps_fluid.b02:system/etc/firmware/dsps_fluid.b02 \
@@ -110,11 +110,8 @@ PRODUCT_COPY_FILES += \
     vendor/sony/hikari/proprietary/etc/firmware/q6.b06:system/etc/firmware/q6.b06 \
     vendor/sony/hikari/proprietary/etc/firmware/q6.b07:system/etc/firmware/q6.b07 \
     vendor/sony/hikari/proprietary/etc/firmware/q6.mdt:system/etc/firmware/q6.mdt \
-    vendor/sony/hikari/proprietary/etc/firmware/touch_module_id_0x1b.img:system/etc/firmware/touch_module_id_0x1b.img \
-    vendor/sony/hikari/proprietary/etc/firmware/touch_module_id_0x1c.img:system/etc/firmware/touch_module_id_0x1c.img \
-    vendor/sony/hikari/proprietary/etc/firmware/touch_module_id_0x11.img:system/etc/firmware/touch_module_id_0x11.img \
-    vendor/sony/hikari/proprietary/etc/firmware/touch_module_id_0x12.img:system/etc/firmware/touch_module_id_0x12.img \
-    vendor/sony/hikari/proprietary/etc/firmware/touch_module_id_0x16.img:system/etc/firmware/touch_module_id_0x16.img \
+    vendor/sony/hikari/proprietary/etc/firmware/touch_module_id_0x1d.img:system/etc/firmware/touch_module_id_0x1d.img \
+    vendor/sony/hikari/proprietary/etc/firmware/touch_module_id_0x13.img:system/etc/firmware/touch_module_id_0x13.img \
     vendor/sony/hikari/proprietary/etc/firmware/tzapps.b00:system/etc/firmware/tzapps.b00 \
     vendor/sony/hikari/proprietary/etc/firmware/tzapps.b01:system/etc/firmware/tzapps.b01 \
     vendor/sony/hikari/proprietary/etc/firmware/tzapps.b02:system/etc/firmware/tzapps.b02 \
